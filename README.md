@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridvan OZTURAC</h1>
-<h3 align="center">An Open Source enthusiast and a Software Engineer</h3>
+<h3 align="center">Open Source Enthusiast and Software Engineer</h3>
 
 - 🔭 I’m currently working as a senior software engineer at [hepsiburada.com](https://www.hepsiburada.com/)
 - 🌱 I’m currently learning **Golang & Blockchain**
