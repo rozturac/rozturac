@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridvan OZTURAC</h1>
 <h3 align="center">Open Source Enthusiast and Software Engineer</h3>
 
-- 🔭 I’m currently working as a senior software engineer at [hepsiburada.com](https://www.trendyol.com/)
+- 🔭 I’m currently working as a senior software engineer at [trendyol.com](https://www.trendyol.com/)
 - 🌱 I’m currently learning **Golang & Blockchain**
 - 👯 I’m looking to collaborate on **[go-ddd-example](https://github.com/rozturac/go-ddd-example) & [cerror](https://github.com/rozturac/cerror)**
 - 💬 Ask me about **.Net (Framework/Core/5/6), Architectural Patterns, Domain Driven Design, Micro Services**
